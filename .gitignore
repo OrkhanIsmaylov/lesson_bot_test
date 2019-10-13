@@ -1,4 +1,7 @@
 *.log
 settings.py
-evn/
-__pycache__/settings.cpython-37.pyc
+env/
+__pycache__/
+.vscode/
+downloads/
+
